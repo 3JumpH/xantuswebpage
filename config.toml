@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://xantusdesign.com/"
+baseurl = "https://3jumph.github.io/xantuswebpage/"
 languageCode = "en-us"
 title = "Xantus Design"
 theme = "agency"
