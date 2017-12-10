@@ -91,19 +91,19 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-address-card"
       title = "Graphic Design"
-      description = "You need something designed that is going to be printed (bussiness card, flyer, catalogue) ?"
+      description = "Need something designed that is going to be printed (bussiness card, flyer, catalogue) ?"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-file-image-o"
       title = "Digital Design"
-      description = "You want a cool logo for your website or a facebook cover?"
+      description = "Want a cool logo for your website or a facebook cover?"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Website Building"
-      description = "Your bussiness needs a website?"
+      description = "Your bussiness needs a cool website?"
       url = "#"
 
   # Portfolio section
@@ -114,7 +114,7 @@ googleAnalytics = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Portfolio"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = "Take a look at some of our previous work."
 
     [params.portfolio.modal]
       client = "Client"
