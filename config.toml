@@ -46,8 +46,8 @@ googleAnalytics = ""
   # Navigation
   [params.navigation]
     brand = "Xantus Design"
-    # Optional logo as brand stored in img/
-    #logo = "logo.svg"
+    # Optional logologo as brand stored in img/
+    logo = "logo.png"
     services = "Services"
     portfolio = "Portfolio"
     about = "About"
