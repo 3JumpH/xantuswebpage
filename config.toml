@@ -84,26 +84,26 @@ googleAnalytics = ""
   [params.services]
     enable = true
     title = "Services"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = "Here are some of the services we offer."
 
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-shopping-cart"
-      title = "E-Commerce"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      icon = "fa-address-card"
+      title = "Graphic Design"
+      description = "You need something designed that is going to be printed (bussiness card, flyer, catalogue) ?"
+      url = "#"
+
+    [[params.services.row.list]]
+      icon = "fa-file-image-o"
+      title = "Digital Design"
+      description = "You want a cool logo for your website or a facebook cover?"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
-      title = "Responsive Design"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
-
-    [[params.services.row.list]]
-      icon = "fa-lock"
-      title = "Web"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      title = "Website Building"
+      description = "Your bussiness needs a website?"
       url = "#"
 
   # Portfolio section
