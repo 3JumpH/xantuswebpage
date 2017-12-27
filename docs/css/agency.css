@@ -382,6 +382,7 @@ section h3.section-subheading {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    min-height: 275px;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {

@@ -117,11 +117,7 @@ googleAnalytics = ""
     subtitle = "Take a look at some of our previous work."
 
     [params.portfolio.modal]
-      client = "Client"
-      date = "Date"
-      category = "Category"
       buttonText = "Close project"
-
 
     # About section
   [params.about]
